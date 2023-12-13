@@ -1,6 +1,6 @@
 👀Hi, I'm SHT, an undergraduate in Westlake University. 
 
-I'm dedicated to our alpha college's website currently. Since oure server and domain name haven't been distributed, the backend is not developed. the If interested, you can contact me via 2036230339@qq.com!
+
 
 <!--START_SECTION:activity-->
 
