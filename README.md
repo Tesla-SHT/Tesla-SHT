@@ -1,5 +1,6 @@
 <h2 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello!+I'm+Haotian+Shen" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello!+I'm+Haotian+Shen)
 
 </h2>
 
