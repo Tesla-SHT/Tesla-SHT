@@ -15,7 +15,7 @@
 ### About Me
 
 - I am an incoming Ph.D. student at Westlake University.
-- I will join the [Spatial Intelligence and Robotics Lab (SIR Lab)](https://ethliup.github.io/), supervised by Prof. Peidong Liu.
+- I will join the [Spatial Intelligence and Robotics Lab](https://ethliup.github.io/), supervised by Prof. Peidong Liu.
 - My current research interests are Embodied AI and local manipulation for humanoid robots.
 - My previous work focused on event-based 3D perception, reconstruction, and SLAM.
 - I keep academic notes and personal writings on my [blog](https://Tesla-SHT.github.io).
