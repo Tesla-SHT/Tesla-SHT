@@ -9,8 +9,8 @@
 [![Views](https://komarev.com/ghpvc/?username=Tesla-SHT&label=Views&color=blueviolet&style=flat)](https://github.com/Tesla-SHT)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-Tesla_SHT-blue?logo=google-chrome&logoColor=white)](https://Tesla-SHT.github.io)
 [![Email](https://img.shields.io/badge/Email-Haotian%20Shen-blue?logo=gmail&logoColor=white)](mailto:shenhaotian@westlake.edu.cn)
-
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iDm6aK4AAAAJ) · [ORCID](https://orcid.org/0000-0002-4162-2995)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=iDm6aK4AAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-blue?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4162-2995)
 
 </div>
 
