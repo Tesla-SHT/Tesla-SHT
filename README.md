@@ -1,6 +1,6 @@
 <h2 align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Haotian+Shen;Incoming+Ph.D.+Student;Embodied+AI+%26+Humanoid+Robotics)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Haotian+Shen;Ph.D.+Student+at+Westlake+University;Embodied+AI+%26+Humanoid+Robotics)
 
 </h2>
 
@@ -10,21 +10,26 @@
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-Tesla_SHT-blue?logo=google-chrome&logoColor=white)](https://Tesla-SHT.github.io)
 [![Email](https://img.shields.io/badge/Email-Haotian%20Shen-blue?logo=gmail&logoColor=white)](mailto:shenhaotian@westlake.edu.cn)
 
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iDm6aK4AAAAJ) · [ORCID](https://orcid.org/0000-0002-4162-2995)
+
 </div>
 
 ### About Me
 
-- I am an incoming Ph.D. student at Westlake University.
-- I will join the [Spatial Intelligence and Robotics Lab](https://ethliup.github.io/), supervised by Prof. Peidong Liu.
-- My current research interests are Embodied AI and local manipulation for humanoid robots.
-- My previous work focused on event-based 3D perception, reconstruction, and SLAM.
+- I am a Ph.D. student at Westlake University in the [Spatial Intelligence and Robotics Lab](https://ethliup.github.io/), supervised by Prof. Peidong Liu.
+- My research focuses on Embodied AI, robot learning, and dexterous humanoid loco-manipulation.
+- My earlier work explored event-based 3D reconstruction and SLAM.
 - I keep academic notes and personal writings on my [blog](https://Tesla-SHT.github.io).
 
 ### Selected Publications
 
+- **[DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations](https://dexweave.github.io/)**<br>
+  Naichuan Sun*, <strong>Haotian Shen</strong>*, Yizhang Zhang, Luying Feng, Haoze Wang, Yuanbo Xiangli, Yaochu Jin, Peidong Liu&dagger;<br>
+  arXiv preprint, 2026 · [Paper](https://arxiv.org/abs/2609.34724) · [Code](https://github.com/WU-CVGL/DexWeave)
+
 - **Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**  
   Jian Huang*, <strong>Haotian Shen</strong>*, Xinhao Lou, Chengrui Dong, Wenpu Li, Peidong Liu&dagger;  
-  IROS 2026
+  IROS 2026 · [arXiv](https://arxiv.org/abs/2607.15727) · [PDF](https://arxiv.org/pdf/2607.15727)
 
 - **ED-SLAM: Event-Depth Gaussian Splatting SLAM**  
   Jian Huang*, <strong>Haotian Shen</strong>*, Xinhao Lou, Peidong Liu&dagger;  
